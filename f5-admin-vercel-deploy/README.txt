@@ -1,0 +1,1 @@
+This is a prebuilt admin panel for deployment via Vercel. Be sure to deploy with `build` as the output directory.
